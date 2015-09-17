@@ -1,0 +1,3 @@
+@shell if [ ! -d $MODULE/lib/vendor ] ; then cd $MODULE/lib && php $MODULE/lib/composer.phar install --no-interaction; fi
+lib/vendor lib/AwsSdk
+app/etc/modules/*   app/etc/modules/

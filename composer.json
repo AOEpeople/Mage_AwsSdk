@@ -1,0 +1,11 @@
+{
+    "name": "mage/awssdk",
+    "description": "Magento Wrapper for AWS SDK for PHP",
+    "authors": [
+        {
+            "name": "Fabrizio Branca",
+            "email": "firstname.lastname@aoe.com"
+        }
+    ],
+    "type": "magento-module"
+}
